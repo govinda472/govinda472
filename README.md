@@ -1,9 +1,6 @@
 <!--- <p align="center">
-  <img src="/govindasahoo.gif" alt="Photo" height="300">
-</p> --->
- <p align="center">
   <img src="/giphy.gif" alt="Photo" height="300">
-</p> 
+</p> --->
 
 # Hey, I'm Govinda! 👋
 
