@@ -1,7 +1,10 @@
 <!--- <p align="center">
   <img src="/govindasahoo.gif" alt="Photo" height="300">
 </p> --->
-<iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
+ <p align="center">
+  <img src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" alt="Photo" height="300">
+</p> 
+
 # Hey, I'm Govinda! 👋
 
 I'm a Math & Computer Science, and Business Economics double major at UC San Diego with a passion for full-stack development and data science!
