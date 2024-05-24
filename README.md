@@ -2,7 +2,7 @@
   <img src="/govindasahoo.gif" alt="Photo" height="300">
 </p> --->
  <p align="center">
-  <img src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" alt="Photo" height="300">
+  <img src="/giphy.gif" alt="Photo" height="300">
 </p> 
 
 # Hey, I'm Govinda! 👋
